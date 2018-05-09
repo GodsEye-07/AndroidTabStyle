@@ -1,0 +1,6 @@
+framework module Pods_AndroidTabStyle {
+  umbrella header "Pods-AndroidTabStyle-umbrella.h"
+
+  export *
+  module * { export * }
+}
